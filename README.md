@@ -2,6 +2,10 @@
 
 The project uses haar-cascade model for Face and eye detection. You can run code on existing video or realtime with your camera.
 
+## Demo 
+
+https://www.youtube.com/watch?v=0Drq7AtuXhQ
+
 ## Setup
 
 Clone this project
