@@ -6,6 +6,8 @@ The project uses haar-cascade model for Face and eye detection. You can run code
 
 https://www.youtube.com/watch?v=0Drq7AtuXhQ
 
+![Alt Text](https://media.giphy.com/media/oHvA7zlQZxxDKLRKVS/giphy.gif)
+
 ## Setup
 
 Clone this project
