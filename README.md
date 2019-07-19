@@ -31,7 +31,7 @@ You need to change video destination in face_det.py in line 24
 
 `reader = imageio.get_reader('VIDEO-HERE)`
 
-Than run the code
+Then run the code
 
 `python face_det.py`
 
